@@ -1,5 +1,3 @@
-package android
-
 group 'dev.applicazza.flutter.plugins.whatsapp_stickers'
 version '1.0-SNAPSHOT'
 
